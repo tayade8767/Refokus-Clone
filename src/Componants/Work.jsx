@@ -7,11 +7,11 @@ function Work() {
     var images = [
 
         { url:"https://wallpapercave.com/wp/QDO40f0.jpg", top:"50%", left:"50%", isActive:true },   // give the images url form the website 
-        { url:"", top:"56%", left:"44%", isActive:false },
-        { url:"", top:"45%", left:"56%", isActive:false },
-        { url:"", top:"60%", left:"53%", isActive:false },
-        { url:"", top:"43%", left:"40%", isActive:false },
-        { url:"", top:"65%", left:"55%", isActive:false },
+        { url:"https://m5.paperblog.com/i/281/2810220/wallpaper-download-free-nature-wallpaper-full-L-bcbtZs.jpeg", top:"56%", left:"44%", isActive:false },
+        { url:"https://th.bing.com/th/id/OIP.ibA6xKJ35hn0kHZEguZblgHaEK?w=340&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7", top:"45%", left:"56%", isActive:false },
+        { url:"https://th.bing.com/th/id/OIP.vWUjZJrLjfB1iPw1qrv5wQHaEK?w=303&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7", top:"60%", left:"53%", isActive:false },
+        { url:"https://th.bing.com/th/id/OIP.ZV8yw6rkXANHK-PwF0G-hwHaEK?w=314&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7", top:"43%", left:"40%", isActive:false },
+        { url:"https://th.bing.com/th/id/OIP.dsdW3espvkGZ4jBXQuXHXAHaE8?w=261&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7", top:"65%", left:"55%", isActive:false },
         
     ];
 
